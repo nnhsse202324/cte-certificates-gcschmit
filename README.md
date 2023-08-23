@@ -1,7 +1,7 @@
 # CTE Certificates
 
 ### Local Development:
-
+* add notes here
 
 
 ### Production Server Deployment
