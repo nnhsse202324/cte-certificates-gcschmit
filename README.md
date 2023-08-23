@@ -2,6 +2,7 @@
 
 ### Local Development:
 * add notes here
+and here
 
 
 ### Production Server Deployment
